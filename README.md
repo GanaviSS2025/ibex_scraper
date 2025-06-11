@@ -1,7 +1,7 @@
 The task is to:
 -Opens the IBEX electricity market webpage
 -Collects 3 tables (prices, volumes, products)
--Cleans the data
+-Cleans the data 
 -Saves the data into Databricks tables so we can use it later
 
 🧰 What tools does it use?
